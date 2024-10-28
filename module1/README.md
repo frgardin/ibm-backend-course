@@ -68,3 +68,39 @@
         - Sometimes terms can mean very different roles
         - Software engineer can be similar to civil engineer or mechanical engineer
         - Titles can mean different roles in different countries
+
+## Introduction to the SDLC (Software development life cycle)
+
+### Goals
+
+    - Systematic process to develop high-quality software
+    - Aims to produce software that meets requirements
+    - Defined phases with their own processes and deliverables
+    - Cycle of planning, design, and development
+    - Minimizes development risks and costs
+
+### History of the SDLC
+
+    - Conceived of in the mid-1960s
+    - A deliberate approach needed to manage complex projects
+    - Initially used the waterfall method
+    - Adapted to use iterative methods
+
+### Advantages of the SDLC
+    
+    - Improves efficiency and reduce risks
+    - Team members know what they should be working on and when
+    - Facilitates communication among stakeholders
+    - Team members know when development can move to the next phase
+    - Respond to changing requirements
+    - Solve problems early in the process
+    - Reduces overlapping responsibilities
+
+### Recap
+
+    - The SDLC provides a systematic process for software development
+    - The SDLC developed because of a need for a systematic approach
+    - SDLC Advantages include
+        - Risk reduction and improved efficiency
+
+## 
