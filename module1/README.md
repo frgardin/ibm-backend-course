@@ -103,4 +103,78 @@
     - SDLC Advantages include
         - Risk reduction and improved efficiency
 
-## 
+## Phases of SDLC
+
+![SDLC phases](sdlc_phases.png)
+
+### Phase 1 - Planning
+
+- Gathered 
+- Analyzed
+- Documented
+- Prioritized
+
+#### Parts to be considered
+
+- Users of the solution
+- Purpose of the solution
+- Data Inputs/Outputs
+- Legal and Regulatory Compliance
+- Risk Identifications
+- QA requirements
+- Allocating Human and Finantial Resources
+- Project Scheduling 
+
+#### Prototyping
+
+- Small-scale replica to clarify requirements
+- Test design ideas
+- Can be developed at various stages of the SDLC
+
+#### Software requirements specification (SRS)
+
+- Requirements are documented in the SRS
+- All stakeholders must agree
+
+### Phase 2 - Design
+
+- Requirements are gathered from the SRS to develop architecture.
+
+- Build Design Document
+
+### Phase 3 - Development
+
+- After Design Document is produced, the project planners use this document to assign coding tasks
+
+- Develop process can be done securely
+
+### Phase 4 - Testing
+
+- Code is tested to ensure stability, security, and that it meets requirements from the SRS
+
+- Bugs reported, tracked, fixed, and retested until the code is stable
+
+#### Test types included
+
+- Unit testing
+
+- Integration Testing
+
+- System Testing 
+
+- Acceptance Testing
+
+### Phase 5 - Deployment
+
+
+Tested Code -> User acceptance testing environment -> Production Environment
+
+### Phase 6: Maintenance
+
+- Other bugs
+- New and changing requirements
+- Code enhancements
+- User interface issues
+
+
+
