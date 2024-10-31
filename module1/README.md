@@ -270,3 +270,116 @@ Types:
     - README files, inline comments, architecture and design documents, verification information and maintenance;
 - User documentation
     - User guides, instructional videos, manuals, online and inline help
+
+## Requirements
+
+### Steps to gathering requirements
+
+- Identifying stakeholders
+- Establishing goals and objectives
+- Eliciting requirements from the stakeholders
+- Documenting the requirements
+- Analyzing and confirming the requirements
+- Prioritizing
+
+### Identifying stakeholders
+
+- Key personnel:
+    - Decision-makers
+    - End-users
+    - System administrators
+    - Engineering
+    - Marketing
+    - Sales
+    - Customer support
+
+### Establishing goals and objectives
+
+- Goals: broad, long-term achievable outcomes
+- Objectives: actionable, measurable actions that achieve the goal
+
+### Eliciting, documenting, confirming
+
+- Elicit
+    - Surveys
+    - Questionnaires
+    - Interviews
+- Document
+    - Align with goals and objectives
+    - Easily understood
+- Confirm
+    - Consistency
+    - Clarity
+    - Completeness
+
+### Prioritizing
+
+- Must-have
+- Highly desired
+- Nice to have
+
+### Requirements documentation
+
+- Software requirements specification (SRS)
+- User requirements specification (URS)
+- System requirements specification (SysRS)
+
+### Software requirements specification (SRS)
+
+- Captures functionalities the software should perform
+- Establishes benchmarks / service-levels for performance
+- Purpose and scope
+- Constraints, assumptions, dependencies
+- Requirements
+    - Functional
+    - External interface
+    - Systme features
+    - Non-functional
+
+### SRS: Purpose and scope
+
+- Purpose
+    - Who has access to the SRS
+    - How it should be used
+- Scope
+    - Software benefits
+    - Goals
+    - Objectives
+
+### SRS: Constraints, assumptions, dependencies
+
+- Constraints: how the software must operate under given conditions
+- Assumptions: required OS of hardware
+- Dependencies: on other softaware products
+
+### SRS: Requirements
+
+- Functional: functions of the software
+- External: users and interactions with other hardware or software
+- System features: functions of the system
+- Non-functional: performance, safety, security, quality
+
+### User requirements specification (URS)
+
+- Describe business need and end-user expectations
+- User stories:
+    - Who is the user?
+    - What is the function that needs to be performed?
+    - Why does the user want this functionality?
+- Confirmed during user acceptance testing
+- Often combined into the SRS
+
+### System Requirement Specification (SysRS)
+
+- Outlines requirements of the system
+- Broader than an SRS
+- Contains:
+    - System capabilities
+    - Interfaces and user characteristics
+    - Policy
+    - Regulation
+    - Personnel
+    - Security
+    - System acceptance criteria
+    - Hardware expectations
+
