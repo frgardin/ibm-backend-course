@@ -383,3 +383,56 @@ Types:
     - System acceptance criteria
     - Hardware expectations
 
+## Software Development Methodologies
+
+### Common development methodologies
+
+A process is needed to clarify communication and facilitate information sharing among team members.
+
+Waterfall
+V-shape model
+Agile
+
+#### Waterfall method
+
+![Waterfall Model](waterfall_model.png)
+
+**Pros and Cons**
+
+- Pros:
+    - Team members understand their responsibilities due to discrete, well-defined stages
+    - Easier to estimate budget and allocate resources
+- Cons:
+    - Lacks flexibility
+    - Change is hard to accommodate
+
+
+#### V-shape model
+
+![V-shape Model](v_shape_model.png)
+
+**Pros and Cons**
+
+- Pros: 
+    - Easy to use
+    - Test plans designed upfront saves development and testing time
+- Cons:
+    - Rigid
+    - Does not accommodate changing requirements
+
+#### Agile
+
+
+![Agile Model](agile_model.png)
+
+
+**Pros and Cons**
+
+- Pros:
+    - Changing requirements handled easily
+    - Feedback incorporated regularly
+- Cons:
+    - Budgeting and resource allocating is challenging
+    - Project Scope not clearly defined
+
+
