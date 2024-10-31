@@ -435,4 +435,31 @@ Agile
     - Budgeting and resource allocating is challenging
     - Project Scope not clearly defined
 
+## Software Versions
+
+- Software Versions are identified by version numbers
+- Version numbers indicate:
+    - When the software was released
+    - When is updated
+    - If any minor changes or fixes were made to the Software
+- Software developers use versioning to keep track of new Software, updates, and patches
+
+### Version numbers
+
+- Version numbers can be short or long, with 2, 3, or 4 sets
+- Each number set is divided by a period
+- An application with a 1.0 version number indicates the first release
+- Software with many releases and updates will have a large number
+- Some software use dates for versioning, such as Ubuntu Linux version 18.04.2 released in 2018 April, with a change shown in the third number set
+
+### What do version numbers mean??
+
+Some version numbers follow the semantic numbering system and have 4 parts separated by a period
+
+- The first number indicates major changes to the software, such as a new release
+- The second number indicates that minor changes were made to a piece of software
+- The third number in the version number indicates patches or minor  bug fixes
+- The fourth number indicates build numbers, build dates, and less significant changes
+
+
 
