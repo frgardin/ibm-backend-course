@@ -177,4 +177,96 @@ Tested Code -> User acceptance testing environment -> Production Environment
 - User interface issues
 
 
+## Building Quality Software
 
+### Common software engineering processes
+
+- Requirements gathering
+- Design
+- Coding for quality
+- Testing
+- Releases
+- Documenting
+
+### Requirement Gathering
+
+- The software requirements specification (SRS) encompasses the process of collecting and documenting the set of requirements that the software needs to adhere to.
+
+- It may include a set of use cases that describe the business needs and user flows that the software must implement
+
+SW requirements can be classified into four broad categories:
+
+- Functional
+- External & user interface
+- System features
+- Nonfunctional
+
+### Design
+
+- Transforming requirements into code
+- Breaking down requiremtns into sets of realted components
+- Communicating business rules and application logic
+
+### Coding for quality
+
+- Maintainability
+- Readability
+- Testability
+- Security
+
+Quality code mus fulfill the intended requirements of the software without defects
+
+- Clean and consistent
+- Easy to read and maintain
+- Well documented
+- Efficient
+
+Coding for quality entails following a set of coding practices during development
+
+- Following coding standards
+- Using linters to detect errors
+- Commenting in the code itself to make it easy to understand and modify
+
+### Testing
+
+The process of verifying that the software matches established requirements and is free of bugs
+
+- Identify errors, gaps, or missing requirements;
+- Ensures reliability, security, performance, and efficiency
+- Software testing can often be automated or done manually
+
+Types:
+
+- Unit testing
+- Integration testing
+- System testing
+- User acceptance testing (UAT) or Beta testing
+
+### Releases
+
+#### Alpha
+
+- Select stakeholders
+- May contain errors
+- Preview of functioning version
+- Design changes may occur
+
+
+#### Beta
+
+- All stakeholders
+- User testing
+- Meets requirements
+
+#### GA (General Availability)
+
+- Stable
+- All users
+
+
+### Documenting
+
+- System documentation
+    - README files, inline comments, architecture and design documents, verification information and maintenance;
+- User documentation
+    - User guides, instructional videos, manuals, online and inline help
